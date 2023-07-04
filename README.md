@@ -47,3 +47,8 @@ What can it do?:
 
 
 > + More!
+
+GUI
+
+![preview](https://github.com/Bazsika4534/Hawkish-Grabber/assets/136202726/93d30c7d-a638-48ca-9c95-e75225e3818c)
+
